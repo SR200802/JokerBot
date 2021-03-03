@@ -4,7 +4,7 @@ const client = new Discord.Client();
 const PREFIX = "!";
 const prefix = '!';
 
-const token = 'ODE2NDYxMTI1OTMxNDk5NTMw.YD7SrQ.6yAPehwjgGfqxsp3fcFq0RNDSmI'
+const token = 'ODE2NDYxMTI1OTMxNDk5NTMw.YD7SrQ.WGDrG7oi7Xr82sh8vp9Jlp3K-Uk'
 
 client.on('ready', () =>{
     console.log('This bot is online!, Change Successful');
